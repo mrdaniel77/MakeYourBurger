@@ -1,10 +1,10 @@
 # Download project
 
 ### Clonar
-git clone https://github.com/carlosfgti/laravel-com-vue-exemplo.git
+git clone https://github.com/mrdaniel77/MakeYourBurger.git
 
 ### Acessar
-cd laravel-com-vue-exemplo
+cd MakeYourBurger
 
 ## config Backend
 ### Instalar dependências do projeto
